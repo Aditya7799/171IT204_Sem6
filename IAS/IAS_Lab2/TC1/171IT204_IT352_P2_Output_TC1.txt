@@ -1,0 +1,13 @@
+Source IP :-10:100:53:123
+Destination IP :-54:72:51:202
+Source Port :-1949
+Destination Port :-8282
+Destination Mac Address :-50:eb:1a:90:61:32
+Source Mac Address :-6c:c2:17:77:00:a6
+Ethernet Address :-:0
+IP Version :-IPv4
+No. of bytes in Header :-5bytes
+Length of Header :-1
+Protocol :-TCP
+PACKET ALLOWED
+************************************
