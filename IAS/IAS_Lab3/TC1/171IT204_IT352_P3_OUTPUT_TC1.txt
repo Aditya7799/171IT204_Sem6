@@ -1,0 +1,33 @@
+###[ Ethernet ]### 
+  dst       = 50:eb:1a:90:61:32
+  src       = 78:45:61:c4:00:8f
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x0
+     len       = 75
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 64
+     proto     = tcp
+     chksum    = 0x643d
+     src       = 10.10.1.1
+     dst       = 10.100.1.1
+     \options   \
+###[ TCP ]### 
+        sport     = 81
+        dport     = http
+        seq       = 0
+        ack       = 0
+        dataofs   = 5
+        reserved  = 0
+        flags     = S
+        window    = 8192
+        chksum    = 0x3071
+        urgptr    = 0
+        options   = []
+###[ Raw ]### 
+           load      = 'This is the load part of the packet'
+DENIED by Rule 1 from ACL file
