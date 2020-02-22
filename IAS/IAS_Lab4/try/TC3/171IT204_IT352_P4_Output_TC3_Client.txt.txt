@@ -1,0 +1,20 @@
+Generated N:532891
+Generated Public Key 1296
+Round 1
+Random number r =101
+Witness x=10201
+Challege c=1
+Response y=3636
+***********************************
+Round 2
+Random number r =60
+Witness x=3600
+Challege c=1
+Response y=2160
+***********************************
+Round 3
+Random number r =40
+Witness x=1600
+Challege c=1
+Response y=1440
+***********************************

@@ -1,0 +1,20 @@
+Recieved N:870473
+Recieved Claimants Public Key v=484
+Round 1
+Recieved x=225
+Entered Challenge c:0
+Response from Claimant:15
+result=225
+Authorized
+Round 2
+Recieved x=256
+Entered Challenge c:0
+Response from Claimant:16
+result=256
+Authorized
+Round 3
+Recieved x=1681
+Entered Challenge c:1
+Response from Claimant:902
+result=813604
+Authorized

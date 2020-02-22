@@ -1,0 +1,20 @@
+Generated N:870473
+Generated Public Key 484
+Round 1
+Random number r =15
+Witness x=225
+Challege c=0
+Response y=15
+***********************************
+Round 2
+Random number r =16
+Witness x=256
+Challege c=0
+Response y=16
+***********************************
+Round 3
+Random number r =41
+Witness x=1681
+Challege c=1
+Response y=902
+***********************************

@@ -1,0 +1,4 @@
+Recieved N:223693
+Recieved Claimants Public Key v=1
+Round 1
+Not Authorized. Error 
